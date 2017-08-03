@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C36B6011F32A77500B09647 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C36B6001F32A77500B09647 /* GradientView.swift */; };
 		8CBCC0D31F32A295005561E6 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBCC0D21F32A295005561E6 /* ChatVC.swift */; };
 		8CBCC0D51F32A2A8005561E6 /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBCC0D41F32A2A8005561E6 /* ChannelVC.swift */; };
 		8CBCC0D61F32A4C3005561E6 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CEB71BD1F3175BE00FF63D5 /* SWRevealViewController.m */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C36B6001F32A77500B09647 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		8CBCC0D21F32A295005561E6 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		8CBCC0D41F32A2A8005561E6 /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
 		8CEB71BB1F3175BD00FF63D5 /* SmackChat-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SmackChat-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		8CBCC0D01F32A250005561E6 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8C36B6001F32A77500B09647 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 			files = (
 				8CBCC0D31F32A295005561E6 /* ChatVC.swift in Sources */,
 				8CBCC0D51F32A2A8005561E6 /* ChannelVC.swift in Sources */,
+				8C36B6011F32A77500B09647 /* GradientView.swift in Sources */,
 				8CFF35DC1F3173160055DC6B /* AppDelegate.swift in Sources */,
 				8CBCC0D61F32A4C3005561E6 /* SWRevealViewController.m in Sources */,
 			);
